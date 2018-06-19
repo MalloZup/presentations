@@ -1,2 +1,3 @@
 Saltfile
-var/**
+var/
+salt-ssh/etc/salt/pki

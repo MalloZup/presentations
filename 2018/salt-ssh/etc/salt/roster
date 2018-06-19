@@ -1,4 +1,4 @@
 # Your localhost
 green:
-  host: localhost
+  host: alba2-ctl2.tf.local
   user: root
