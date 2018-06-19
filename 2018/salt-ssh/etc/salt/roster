@@ -1,0 +1,4 @@
+# Your localhost
+green:
+  host: localhost
+  user: root
