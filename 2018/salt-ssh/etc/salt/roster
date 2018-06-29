@@ -1,4 +1,3 @@
-# Your localhost
 green:
-  host: alba2-ctl2.tf.local
+  host: ix64ph1078.qa.suse.de
   user: root
